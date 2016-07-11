@@ -57,7 +57,7 @@ Também é possível exibir legenda ou créditos para o fotógrafo. Caso um dess
 
 <img src="/samples/imagem_big.png" width="600"/>
 
-<br/><hr/><br/>
+<br/><br/>
 
 ##Citações
 
@@ -111,7 +111,7 @@ Texto `<figure class="quote">`
 
 <img src="/samples/citacao_texto.png" width="500"/>
 
-<br/><hr/><br/>
+<br/><br/>
 
 ##Números
 
@@ -135,4 +135,4 @@ Informações numéricas/estatísticas podem ser inseridas em posição lateral 
 
 <img src="/samples/numeros.png" width="350"/>
 
-<br/><hr/><br/>
+<br/><br/>
