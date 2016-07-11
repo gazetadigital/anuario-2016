@@ -36,7 +36,6 @@ Também é possível exibir legenda ou créditos para o fotógrafo. Caso um dess
 ```
 
 ####Exemplos
-<br/>
 
 `TAMANHO_DA_IMAGEM`: **small**
 <br/><br/>
@@ -58,6 +57,30 @@ Também é possível exibir legenda ou créditos para o fotógrafo. Caso um dess
 <img src="/samples/imagem_big.png" width="600"/>
 
 <br/><br/>
+
+##Vídeos
+
+Possuem as mesmas opções de tamanho que as imagens, porém sem o tamanho **small**.
+
+`TAMANHO_DO_VÍDEO` pode ser: `medium` | `big`
+
+`CÓDIGO_DO_VÍDEO` localizado no fim da mini URL `http://dai.ly/x4jv9dn`, ou seja, `x4jv9dn` neste exemplo.
+
+`TÍTULO_DO_VÍDEO` é o título cadastrado no Dailymotion.
+
+```
+<figure class="media" data-size="TAMANHO_DO_VÍDEO">
+  <iframe frameborder="0" src="http://www.dailymotion.com/embed/video/CÓDIGO_DO_VÍDEO" allowfullscreen></iframe>
+  <figcaption><div class="description">TÍTULO_DO_VÍDEO</div></figcaption>
+</figure>
+```
+
+#####Passo-a-passo para conseguir informações do vídeo:
+
+1. Abra o vídeo desejado no Dailymotion, como por exemplo: http://www.dailymotion.com/video/x4jv9dn_em-cartaz-s03e01-a-era-do-gelo-5-o-big-bang_news
+2. Copie o título escrito logo abaixo do vídeo e insira em `TÍTULO_DO_VÍDEO`
+3. Clique em **Compartilhar** e no item **Permalink** copie o `CÓDIGO_DO_VÍDEO`, como exemplificado acima (Para facilitar, marque a opção **Mini URL**, caso esteja desmarcada).
+
 
 ##Citações
 
@@ -97,7 +120,6 @@ Para que a citação fique no meio do texto (e não deslocada para a lateral), r
 ```
 
 ####Exemplos
-<br/>
 
 Lateral `<figure class="aside quote">`
 <br/><br/>
@@ -131,7 +153,6 @@ Informações numéricas/estatísticas podem ser inseridas em posição lateral 
 ```
 
 ####Exemplo
-<br/>
 
 <img src="/samples/numeros.png" width="350"/>
 
