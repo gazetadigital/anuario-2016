@@ -36,24 +36,28 @@ Também é possível exibir legenda ou créditos para o fotógrafo. Caso um dess
 ```
 
 ####Exemplos
+<br/><br/>
 
 `TAMANHO_DA_IMAGEM`: **small**
+<br/><br/>
 
 <img src="/samples/imagem_small.png" width="400"/>
 
-<hr/>
+<br/><hr/><br/>
 
 `TAMANHO_DA_IMAGEM`: **medium**
+<br/><br/>
 
 <img src="/samples/imagem_medium.png" width="400"/>
 
-<hr/>
+<br/><hr/><br/>
 
 `TAMANHO_DA_IMAGEM`: **big**
+<br/><br/>
 
 <img src="/samples/imagem_big.png" width="600"/>
 
-<hr/>
+<br/><hr/><br/>
 
 ##Citações
 
@@ -93,9 +97,42 @@ Para que a citação fique no meio do texto (e não deslocada para a lateral), r
 ```
 
 ####Exemplos
+<br/><br/>
 
-`TAMANHO_DA_IMAGEM`: **small**
+Lateral `<figure class="aside quote">`
+<br/><br/>
 
-<img src="/samples/imagem_small.png" width="400"/>
+<img src="/samples/citacao_aside.png" width="350"/>
 
-<hr/>
+<br/><hr/><br/>
+
+Texto `<figure class="quote">`
+<br/><br/>
+
+<img src="/samples/citacao_texto.png" width="500"/>
+
+<br/><hr/><br/>
+
+##Números
+
+Informações numéricas/estatísticas podem ser inseridas em posição lateral ao texto, com as seguintes características:
+
+`NÚMERO` Número desejado (ex.: 80,8)
+
+`DIMENSÃO` Dimensão do número utilizado (ex.: Bilhões de Reais)
+
+`TEXTO_COMPLEMENTAR` Texto complementar que possa acompanhar o número. Caso não seja necessário, remova a linha inteira do item.
+
+```
+<figure class="aside numbers">
+  <p><span class="number">NÚMERO</span><br /><strong>DIMENSÃO</strong></p>
+  <figcaption>TEXTO_COMPLEMENTAR</figcaption>
+</figure>
+```
+
+####Exemplo
+<br/><br/>
+
+<img src="/samples/numeros.png" width="350"/>
+
+<br/><hr/><br/>
