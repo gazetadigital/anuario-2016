@@ -94,8 +94,14 @@ Para que a citação fique no meio do texto (e não deslocada para a lateral), r
 
 ####Exemplos
 
-`TAMANHO_DA_IMAGEM`: **small**
+Lateral `<figure class="aside quote">`
 
-<img src="/samples/imagem_small.png" width="400"/>
+<img src="/samples/citacao_aside.png" width="400"/>
+
+<hr/>
+
+Texto `<figure class="quote">`
+
+<img src="/samples/citacao_texto.png" width="400"/>
 
 <hr/>
