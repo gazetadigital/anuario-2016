@@ -29,15 +29,21 @@
 
 ####Exemplos
 
-**small**<br/>
-<img src="/samples/imagem_small.png" width="400">
+`TAMANHO_DA_IMAGEM`: **small**
+
+<img src="/samples/imagem_small.png" width="400"/>
+
 <hr/>
 
-**medium**<br/>
-<img src="/samples/imagem_medium.png" width="400">
+`TAMANHO_DA_IMAGEM`: **medium**
+
+<img src="/samples/imagem_medium.png" width="400"/>
+
 <hr/>
 
-**big**<br/>
-<img src="/samples/imagem_big.png" width="600">
+`TAMANHO_DA_IMAGEM`: **big**
+
+<img src="/samples/imagem_big.png" width="600"/>
+
 <hr/>
 
