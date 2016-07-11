@@ -36,7 +36,7 @@ Também é possível exibir legenda ou créditos para o fotógrafo. Caso um dess
 ```
 
 ####Exemplos
-<br/><br/>
+<br/>
 
 `TAMANHO_DA_IMAGEM`: **small**
 <br/><br/>
@@ -97,7 +97,7 @@ Para que a citação fique no meio do texto (e não deslocada para a lateral), r
 ```
 
 ####Exemplos
-<br/><br/>
+<br/>
 
 Lateral `<figure class="aside quote">`
 <br/><br/>
@@ -131,7 +131,7 @@ Informações numéricas/estatísticas podem ser inseridas em posição lateral 
 ```
 
 ####Exemplo
-<br/><br/>
+<br/>
 
 <img src="/samples/numeros.png" width="350"/>
 
