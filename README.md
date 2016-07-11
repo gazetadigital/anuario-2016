@@ -36,27 +36,28 @@ Também é possível exibir legenda ou créditos para o fotógrafo. Caso um dess
 ```
 
 ####Exemplos
+<br/><br/>
 
 `TAMANHO_DA_IMAGEM`: **small**
-<br/>
+<br/><br/>
 
 <img src="/samples/imagem_small.png" width="400"/>
 
-<hr/>
+<br/><hr/><br/>
 
 `TAMANHO_DA_IMAGEM`: **medium**
 <br/><br/>
 
 <img src="/samples/imagem_medium.png" width="400"/>
 
-<hr/>
+<br/><hr/><br/>
 
 `TAMANHO_DA_IMAGEM`: **big**
 <br/><br/>
 
 <img src="/samples/imagem_big.png" width="600"/>
 
-<hr/>
+<br/><hr/><br/>
 
 ##Citações
 
@@ -96,17 +97,18 @@ Para que a citação fique no meio do texto (e não deslocada para a lateral), r
 ```
 
 ####Exemplos
+<br/><br/>
 
 Lateral `<figure class="aside quote">`
 <br/><br/>
 
 <img src="/samples/citacao_aside.png" width="350"/>
 
-<hr/>
+<br/><hr/><br/>
 
 Texto `<figure class="quote">`
 <br/><br/>
 
 <img src="/samples/citacao_texto.png" width="500"/>
 
-<hr/>
+<br/><hr/><br/>
