@@ -112,3 +112,27 @@ Texto `<figure class="quote">`
 <img src="/samples/citacao_texto.png" width="500"/>
 
 <br/><hr/><br/>
+
+##Números
+
+Informações numéricas/estatísticas podem ser inseridas em posição lateral ao texto, com as seguintes características:
+
+`NÚMERO` Número desejado (ex.: 80,8)
+
+`DIMENSÃO` Dimensão do número utilizado (ex.: Bilhões de Reais)
+
+`TEXTO_COMPLEMENTAR` Texto complementar que possa acompanhar o número. Caso não seja necessário, remova a linha inteira do item.
+
+```
+<figure class="aside numbers">
+  <p><span class="number">NÚMERO</span><br /><strong>DIMENSÃO</strong></p>
+  <figcaption>TEXTO_COMPLEMENTAR</figcaption>
+</figure>
+```
+
+####Exemplo
+<br/><br/>
+
+<img src="/samples/numeros.png" width="350"/>
+
+<br/><hr/><br/>
