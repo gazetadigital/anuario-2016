@@ -4,9 +4,29 @@
 
 Antes de ser inserido no código, o texto precisa possuir as tags (elementos entre `<` e `>` no HTML, por ex.: `<header>conteúdo</header>`). Para fazer isso, siga os passos a seguir:
 
-1. Copie o texto original, de preferência sem copiar imagens, tabelas e outros itens complexos. (Se necessário, faça cópias parciais).
-2. Abra o arquivo `limpar_texto.html` no navegador.
-3. 
+1. Copie o texto original, de preferência sem copiar imagens, tabelas e outros itens complexos. (Se necessário, faça cópias parciais);
+2. Abra o arquivo `limpar_texto.html` no navegador;
+3. Cole o texto no editor;
+4. Selecione todo o texto colado (`Cmd + A` no Mac) e depois clique em **Clear Formating** (4º botão da barra);
+5. Limpe todos os espaços desnecessários entre os parágrafos (não se preocupe, os espaços ficarão corretos no layout final);
+6. Remova trechos de **citação** que utilizarão os elementos especiais para isso;
+6. Negritos e Itálicos podem ser reconfigurados através dos botões **B** e **I** da barra;
+7. Para _Subtítulos_ você pode selecionar a linha desejada e clicar em *Parágrafo* também na barra, trocando então para *Título*;
+8. Links podem ser adicionados ou removidos através dos botões de *corrente*;
+9. Listas podem ser configuradas também através dos botões na barra, mas se já copiados diretos do Word, manterão suas características corretamente. IMPORTANTE: Nas **listas não-numeradas**, os marcadores do 2º nível para baixo serão duplicados, necessitando que sejam removidos "à mão".
+10. Para finalizar, clique no botão **< >** para acessar o código-fonte do conteúdo editado, e copie-o.
+
+O texto limpo deverá ser colado no lugar de `<!-- COLE O TEXTO LIMPO AQUI -->` no código HTML do artigo.
+
+```
+<div class="contentWrap">
+    <div class="text">
+      <!-- COLE O TEXTO LIMPO AQUI -->
+    </div>
+</div>
+```
+
+Feito isso, você poderá seguir para os próximos passos, adicionando **imagens**, **vídeos**, **citações** etc.
 
 <br/><br/>
 
