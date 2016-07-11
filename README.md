@@ -81,6 +81,7 @@ Possuem as mesmas opções de tamanho que as imagens, porém sem o tamanho **sma
 2. Copie o título escrito logo abaixo do vídeo e insira em `TÍTULO_DO_VÍDEO`
 3. Clique em **Compartilhar** e no item **Permalink** copie o `CÓDIGO_DO_VÍDEO`, como exemplificado acima (Para facilitar, marque a opção **Mini URL**, caso esteja desmarcada).
 
+<br/><br/>
 
 ##Citações
 
