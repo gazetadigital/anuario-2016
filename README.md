@@ -69,8 +69,9 @@ As citações podem ser apresentadas em 2 formatos, ambos com ou sem informaçõ
 
 Os itens `FOTO_DA_PESSOA` e `CARGO_OU_OUTRA_DESCRIÇÃO` são opcionais quando utilizando o modelo *com autor*. Caso não deseje usar um deles, remova a linha inteira do item.
 
-Para que a citação fique no meio do texto (e não deslocada para a lateral), retire a palavra *aside* de `class="aside quote"`, ficando assim: `<figure class="quote">`.
+#####Alternando formato de exibição
 
+Para que a citação fique no meio do texto (e não deslocada para a lateral), retire a palavra *aside* de `class="aside quote"`, ficando assim: `<figure class="quote">`.
 
 #####Com autor
 ```
