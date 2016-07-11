@@ -1,5 +1,15 @@
 #Anuário 2016 - A Gazeta
 
+##Texto
+
+Antes de ser inserido no código, o texto precisa possuir as tags (elementos entre `<` e `>` no HTML, por ex.: `<header>conteúdo</header>`). Para fazer isso, siga os passos a seguir:
+
+1. Copie o texto original, de preferência sem copiar imagens, tabelas e outros itens complexos. (Se necessário, faça cópias parciais).
+2. Abra o arquivo `limpar_texto.html` no navegador.
+3. 
+
+<br/><br/>
+
 ##Imagens
 
 As imagens ao longo do texto podem ter 3 tamanhos diferentes. O código é o mesmo, apenas trocando o tamanho no local indicado.
